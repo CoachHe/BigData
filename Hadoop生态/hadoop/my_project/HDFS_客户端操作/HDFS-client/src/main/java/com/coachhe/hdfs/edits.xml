@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EDITS>
+    <EDITS_VERSION>-63</EDITS_VERSION>
+    <RECORD>
+        <OPCODE>OP_START_LOG_SEGMENT</OPCODE>
+        <DATA>
+            <TXID>1</TXID>
+        </DATA>
+    </RECORD>
+    <RECORD>
+        <OPCODE>OP_MKDIR</OPCODE>
+        <DATA>
+            <TXID>2</TXID>
+            <LENGTH>0</LENGTH>
+            <INODEID>16386</INODEID>
+            <PATH>/examples</PATH>
+            <TIMESTAMP>1601508504778</TIMESTAMP>
+            <PERMISSION_STATUS>
+                <USERNAME>coachhe</USERNAME>
+                <GROUPNAME>supergroup</GROUPNAME>
+                <MODE>493</MODE>
+            </PERMISSION_STATUS>
+        </DATA>
+    </RECORD>
+    <RECORD>
+        <OPCODE>OP_END_LOG_SEGMENT</OPCODE>
+        <DATA>
+            <TXID>3</TXID>
+        </DATA>
+    </RECORD>
+</EDITS>

@@ -1,0 +1,12 @@
+com/coachhe/apitest/state/KeyedState_Case.class
+com/coachhe/apitest/state/KeyedState.class
+com/coachhe/apitest/state/OperatorState.class
+com/coachhe/apitest/window/EventTimeWindow$1.class
+com/coachhe/apitest/state/KeyedState_Case$TempChangingWarning.class
+com/coachhe/apitest/window/EventTimeWindow.class
+com/coachhe/apitest/state/OperatorState$MyCountMapper.class
+com/coachhe/apitest/state/KeyedState$MyKeyCountMapper.class
+util/SensorReading.class
+util/SensorSource.class
+com/coachhe/apitest/window/EventTimeWindow$2.class
+util/SensorTimeAssigner.class
